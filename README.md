@@ -65,54 +65,46 @@ As an Admin, you have the responsibility to set appropriate Priority Levels and 
 <img src="https://i.imgur.com/qd9luqN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-An Admin also has the responsibility to Assign tickets to the appropriate departments and teams for accurate solutions to be given.
+An Admin also has the responsibility to Assign tickets to the appropriate departments and teams for accurate solutions to be given. Online Banking System is the responsibility of System Administrators, therefore, the ticket must be transferred to that department. Also, assign the General Inquiry ticket to Joe Doe in the Support department.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A2sy7vW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as an Administrator to see the tickets created by end-users
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Log in as an Administrator to see the tickets created by end-users
+After transferring tickets to specific departments and teams, give a response to keep the necessary stakeholders of the issue aware of  what is happening.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dXJIrAu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as an Administrator to see the tickets created by end-users
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Log in as an Administrator to see the tickets created by end-users
+Log in as a System Administrator and work the ticket transferred to that department: Jane has been created as an agent and added to the System Administrators department. Notice the ticket appeared on her dashboard after it was transferred to her department. After the online banking system is restored, a response must be posted. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fWB4nOs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as an Administrator to see the tickets created by end-users
+Log in as Joe Doe from the support department to work the ticket assigned to him. Give a response to the inquiry and post a reply.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0tlK62I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as an Administrator to see the tickets created by end-users
+Log back in as the Administrator to make sure that all tickets are resolved: after all the tickets have been solved by all respective assignees, change the ticket status to resolved and post a reply.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2041srW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, In the Admin panel, navigate to closed tickets (tickets -> closed) to observe all resolved tickets.
 </p>
 <br />
