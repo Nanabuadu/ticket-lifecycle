@@ -49,7 +49,7 @@ Creating tickets: Type in your name -> Select a help topic that correlates to th
 <img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as an Administrator to see the tickets created by end-users. Click on any ticket to start working it.
+Log in as an Administrator to see the tickets created by end-users. Click on any ticket to start working on it.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Log in as an Administrator to see the tickets created by end-users. Click on any
 <img src="https://i.imgur.com/wvdcQm2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As an Admin, you have the responsibility to set appropriate Priority Levels and SLAs according to the severity of the tickets. A critical issue like an entire system not working could cause serious harm to the company, hence, it has to be a high priority (SEV-A). An inquiry for hardware refresh is in comparison, not a business-impacting issue, hence, SLA should be a "SEV-B".
+As an Admin, you have the responsibility to set appropriate Priority Levels and SLAs according to the severity of the tickets. A critical issue like an entire online system not working could cause serious harm to the company, hence, it has to be a high priority (SEV-A). An inquiry for hardware refresh is in comparison, not a business-impacting issue, hence, SLA should be a "SEV-B".
 </p>
 <br />
 
@@ -89,7 +89,7 @@ Log in as a System Administrator and work the ticket transferred to that departm
 <img src="https://i.imgur.com/fWB4nOs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as Joe Doe from the support department to work the ticket assigned to him. Give a response to the inquiry and post a reply.
+Log in as Joe Doe from the support department to work on the ticket assigned to him. Give a response to the inquiry and post a reply.
 </p>
 <br />
 
