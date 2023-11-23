@@ -30,25 +30,89 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HH9743K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in as an end-user to create tickets using this link "http://localhost/osTicket/". Click on "Open new tickets".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i2xjIER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating tickets: Type in your name -> Select a help topic that correlates to the issue -> Give a summary of the issue -> Finally, explain the issue in detail and click on Create ticket.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in as an Administrator to see the tickets created by end-users. Click on any ticket to start working it.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wvdcQm2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+As an Admin, you have the responsibility to set appropriate Priority Levels and SLAs according to the severity of the tickets. A critical issue like an entire system not working could cause serious harm to the company, hence, it has to be a high priority (SEV-A). An inquiry for hardware refresh is in comparison, not a business-impacting issue, hence, SLA should be a "SEV-B".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qd9luqN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+An Admin also has the responsibility to Assign tickets to the appropriate departments and teams for accurate solutions to be given.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in as an Administrator to see the tickets created by end-users
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in as an Administrator to see the tickets created by end-users
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in as an Administrator to see the tickets created by end-users
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in as an Administrator to see the tickets created by end-users
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in as an Administrator to see the tickets created by end-users
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oLfoDcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in as an Administrator to see the tickets created by end-users
 </p>
 <br />
